@@ -3,7 +3,7 @@
 	"production": {
 		"db": {
 			"host": "localhost",
-			"username": "llamamal_root",
+			"username": "llamamal_dev",
 			"password": "derp"
 		}
 	},
